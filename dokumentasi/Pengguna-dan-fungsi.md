@@ -1,10 +1,14 @@
 Pengguna dan Fungsi Google Classroom 
--DOSEN
+
+DOSEN
+
 * Memhuat kelas online.
 * Membagikan materi pembelajaran.
 * Memberikan tugas.
 * Memerikasa dan menilai tugas.
--MAHASISWA
+
+MAHASISWA
+
 * Bergabung ke kelas.
 * Membaca materi pembelajaran.
 * Melihat nilai.
