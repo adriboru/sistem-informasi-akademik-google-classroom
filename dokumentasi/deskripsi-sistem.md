@@ -9,3 +9,5 @@ Google classroom  adalah platfrom pembelajaran digital yang membantu dosen dan m
 * menyampaikan pengunguman kelas
 -TUJUAN SISTEM
 Google classroom bertujuan mempermudah proses pembelajaran, meningkatkan efisiensi pengelolaan tugas, dan mendukung kegiatan belajar secara online.
+-PEMBARUAN
+Google classroom memudahkan dosen dan mahasiswa menakses materi pembelajaran, DLL
